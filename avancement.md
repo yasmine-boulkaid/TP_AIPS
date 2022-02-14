@@ -1,6 +1,6 @@
 Veuillez renseigner votre avancement à chaque étape achevée et testée et par défaut à la fin de chaque séance de TP 
 
-NOMs & prénoms du groupe étudiants :  "A RENSEIGNER SVP "
+NOMs & prénoms du groupe étudiants :  BOULKAID Yasmine
 
 # Avancement sur la Partie TP AIPS - Mise en oeuvre de l'application tsock 
 
@@ -10,7 +10,7 @@ L'objectif principal de la 1ère séance est de développer la v1 de tsock: code
 ### Avancement sur la partie SOURCE UDP
 veuillez cocher les seules cases qui correspondent aux étapes validées.  
 
-[ ] la gestion des options -s, -u,  le nombre et Taille par défaut des messages , nom de la machine destinataire,  numéro de port du puit est opérationnelle
+[x] la gestion des options -s, -u,  le nombre et Taille par défaut des messages , nom de la machine destinataire,  numéro de port du puit est opérationnelle
 
 [ ] la création du socket UDP local et la construction de l'adresse du socket distant est correcte
 
@@ -20,7 +20,7 @@ veuillez cocher les seules cases qui correspondent aux étapes validées.
 
 ### Avancement Point sur la partie puit UDP.
 
-[ ] la prise en compte de l' option -p est correcte
+[x] la prise en compte de l' option -p est correcte
 
 [ ] la création du socket UDP local du puit et la construction de son adresse est correcte
 
