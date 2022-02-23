@@ -1,9 +1,10 @@
 Bonjour,
 
-Je suis l'étudiante qui vous a envoyé un mail et qui vous a parlé à la fin de la présentation du BE. Comme convenu je vous 
-transmet ce message. Pour rappel ni moi ni ma binôme n'avons suivi de cours de langage C ni de réseau au premier semestre. Nous avons tout de 
-même essayé de faire la version v3 de tsock. Nous avons réussi à gérer l'option -n mais n'avons pas du tout réussi ni à formatter le message
-correctement, ni à gérer l'option -l. Pour la source et le puit en TCP je pense qu'on s'est quand même assez bien débrouillées. 
+Je suis l'étudiante qui vous a envoyé un mail et qui vous a parlé à la fin de la présentation du BE. Comme convenu je vous transmet ce message. 
+Pour rappel ni moi ni ma binôme n'avons suivi de cours de langage C ni de réseau au premier semestre et j'ai effectué la première séance seule. Nous sommes donc parties avec
+un sacré désavantage. 
+Nous avons tout de même essayé de faire la version v3 de tsock. Nous avons réussi à gérer l'option -n mais n'avons pas du tout réussi ni à formatter le message
+correctement, ni à gérer l'option -l. Pour la source et le puit en TCP (et en UDP bien sûr) je pense qu'on s'est quand même assez bien débrouillées. 
 
 Cordialement,
 
