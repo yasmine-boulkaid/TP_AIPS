@@ -1,4 +1,7 @@
 # AIPS
+## BOULKAID Yasmine et PIMENTA Shivaree 
+
+commande utilisée  pour générer votre exécutable : gcc tsock_v3.c -o tsock_v3
 ## TPs AIPS - 3 MIC
 
 L'objectif des TPs AIPS est de vous permettre de prendre en main de l’API socket avec comme objectif de mettre en oeuvre l’application « tsock » utilisée dans le TP d’introduction aux réseaux. Le langage de programmation utilisé est le C. Ces TPs sont une étape de préparation au BE AIPS.
